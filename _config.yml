@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Angus Scott's polemic blog pages
+    url: 'http://hemlockforsocrates.blogspot.hk/'
+    type: external
 favicon: null
 title: Freelance Writer for hire
 description: 'Copywriting, essays, articles, blogs'
